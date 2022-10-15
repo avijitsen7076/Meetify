@@ -7,7 +7,7 @@
 
 ## About The Project
 
-ReactJS Powered Web Video Conferencing App. (https://meetify-web-app.netlify.app/)
+ReactJS Powered Web Video Conferencing App. 
 
 ## Features
 
